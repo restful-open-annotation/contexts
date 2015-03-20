@@ -21,7 +21,7 @@
     "FYPO":      "http://purl.obolibrary.org/obo/FYPO_",
     "FBdv":      "http://purl.obolibrary.org/obo/FBdv_",
     "FBbt":      "http://purl.obolibrary.org/obo/FBbt_",
-    "taxonomy":  "http://www.ncbi.nlm.nih.gov/taxonomy/",
+    "taxonomy":  "http://identifiers.org/taxonomy/",
     "stringdb":  "http://string-db.org/interactions/",
     "stitchdb":  "http://stitchdb-db.org/interactions/"
   }
