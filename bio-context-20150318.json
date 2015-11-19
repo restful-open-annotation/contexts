@@ -2,6 +2,8 @@
   "@context": {
     "GO":        "http://purl.obolibrary.org/obo/GO_",
     "CHEBI":     "http://purl.obolibrary.org/obo/CHEBI_",
+    "CL":        "http://purl.obolibrary.org/obo/CL_",
+    "CLO":       "http://purl.obolibrary.org/obo/CLO_",
     "OBI":       "http://purl.obolibrary.org/obo/OBI_",
     "PATO":      "http://purl.obolibrary.org/obo/PATO_",
     "PO":        "http://purl.obolibrary.org/obo/PO_",
@@ -21,6 +23,7 @@
     "FYPO":      "http://purl.obolibrary.org/obo/FYPO_",
     "FBdv":      "http://purl.obolibrary.org/obo/FBdv_",
     "FBbt":      "http://purl.obolibrary.org/obo/FBbt_",
+    "FBcv":      "http://purl.obolibrary.org/obo/FBcv_"
     "taxonomy":  "http://identifiers.org/taxonomy/",
     "stringdb":  "http://string-db.org/interactions/",
     "stitchdb":  "http://stitchdb-db.org/interactions/"
