@@ -23,7 +23,7 @@
     "FYPO":      "http://purl.obolibrary.org/obo/FYPO_",
     "FBdv":      "http://purl.obolibrary.org/obo/FBdv_",
     "FBbt":      "http://purl.obolibrary.org/obo/FBbt_",
-    "FBcv":      "http://purl.obolibrary.org/obo/FBcv_"
+    "FBcv":      "http://purl.obolibrary.org/obo/FBcv_",
     "taxonomy":  "http://identifiers.org/taxonomy/",
     "stringdb":  "http://string-db.org/interactions/",
     "stitchdb":  "http://stitchdb-db.org/interactions/"
